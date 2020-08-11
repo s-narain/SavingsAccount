@@ -1,5 +1,3 @@
-//Selina Narain March 31 2020
-
 class SavingsAccount 
 {
     private final double startingBalance;
